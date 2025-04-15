@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fundedex</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Fundedex</h1>
+        <p>Tracking funded startups</p>
+      </header>
+      <main>
+        <div class="companies"></div>
+      </main>
+    </div>
+    <script>
+      fetch('companies.json')
+        .then(response => response.json())
+        .then(data => {
+          const companiesDiv = document.querySelector('.companies')
+          data.forEach(company => {
+            if (company.Company) {
+              const item = document.createElement('div')
+              item.className = 'company-item'
+              
+              const companyName = document.createElement('h2')
+              companyName.textContent = company.Company
+              
+              const fund = document.createElement('div')
+              fund.className = 'fund'
+              fund.textContent = company.Fund
+
+              const founders = document.createElement('div')
+              founders.className = 'founders'
+              const foundersList = [company['Founder 1'], company['Founder 2'], company['Founder 3'], company['Founder 4']]
+                .filter(founder => founder)
+                .join(', ')
+              founders.textContent = foundersList
+
+              const links = document.createElement('div')
+              links.className = 'links'
+              if (company.Website) {
+                const website = document.createElement('a')
+                website.href = company.Website
+                website.textContent = 'Website'
+                website.target = '_blank'
+                links.appendChild(website)
+              }
+
+              item.appendChild(companyName)
+              item.appendChild(fund)
+              item.appendChild(founders)
+              item.appendChild(links)
+              companiesDiv.appendChild(item)
+            }
+          })
+        })
+    </script>
+  </body>
+</html>
