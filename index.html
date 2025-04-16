@@ -182,7 +182,7 @@
                         stroke-width="2"
                       />
                     </svg>
-                    Export Data ($19)
+                    Export Data
                   </button>
                 </div>
                 <div class="tab-content">
@@ -190,7 +190,20 @@
                     <table class="data-table">
                       <thead>
                         <tr>
-                          <th>Company</th>
+                          <th class="sortable sort-asc">
+                            Company
+                            <svg
+                              class="sort-icon"
+                              viewBox="0 0 24 24"
+                              width="16"
+                              height="16"
+                            >
+                              <path
+                                d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+                                fill="currentColor"
+                              />
+                            </svg>
+                          </th>
                           <th>Founder</th>
                           <th>Fund</th>
                         </tr>
@@ -199,10 +212,10 @@
                         <!-- Table content will be populated by JavaScript -->
                       </tbody>
                     </table>
-                    <div class="table-pagination">
+                    <!-- <div class="table-pagination">
                       <button class="btn btn-outline btn-sm">Previous</button>
                       <button class="btn btn-outline btn-sm">Next</button>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </div>

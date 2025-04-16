@@ -1,5 +1,10 @@
 // Wait for DOM to be fully loaded
 document.addEventListener("DOMContentLoaded", () => {
+  let currentSort = {
+    column: "Company",
+    direction: "asc",
+  };
+
   // Fetch data from companies.json
   fetch("companies.json")
     .then((response) => response.json())
@@ -21,14 +26,50 @@ document.addEventListener("DOMContentLoaded", () => {
       // Populate fund filters
       populateFundFilters(fundCounts);
 
-      // Display initial companies
-      displayCompanies(validCompanies);
+      // Sort and display initial companies
+      const sortedCompanies = sortCompanies(validCompanies, currentSort);
+      displayCompanies(sortedCompanies);
 
       // Setup filter functionality
       setupFilters(validCompanies);
+
+      // Setup sorting functionality
+      setupSorting(validCompanies);
     })
     .catch((error) => console.error("Error loading data:", error));
 });
+
+// Sort companies based on current sort settings
+function sortCompanies(companies, sort) {
+  return [...companies].sort((a, b) => {
+    const aValue = a[sort.column];
+    const bValue = b[sort.column];
+
+    if (sort.direction === "asc") {
+      return aValue.localeCompare(bValue);
+    } else {
+      return bValue.localeCompare(aValue);
+    }
+  });
+}
+
+// Setup sorting functionality
+function setupSorting(companies) {
+  const companyHeader = document.querySelector("th.sortable");
+
+  companyHeader.addEventListener("click", () => {
+    // Toggle sort direction
+    currentSort.direction = currentSort.direction === "asc" ? "desc" : "asc";
+
+    // Update header classes
+    companyHeader.classList.remove("sort-asc", "sort-desc");
+    companyHeader.classList.add(`sort-${currentSort.direction}`);
+
+    // Sort and display companies
+    const sortedCompanies = sortCompanies(companies, currentSort);
+    displayCompanies(sortedCompanies);
+  });
+}
 
 // Update statistics in the UI
 function updateStats(totalCompanies, totalFunds) {

@@ -304,8 +304,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  max-height: 180px;
-  overflow-y: auto;
+  overflow-y: visible;
 }
 
 .filter-option {
@@ -497,4 +496,31 @@ body {
     gap: 1rem;
     text-align: center;
   }
+}
+
+.sortable {
+  cursor: pointer;
+  user-select: none;
+  position: relative;
+  padding-right: 2rem !important;
+}
+
+.sort-icon {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.5;
+}
+
+.sort-asc .sort-icon {
+  transform: translateY(-50%) rotate(0deg);
+}
+
+.sort-desc .sort-icon {
+  transform: translateY(-50%) rotate(180deg);
+}
+
+.sortable:hover .sort-icon {
+  opacity: 1;
 }

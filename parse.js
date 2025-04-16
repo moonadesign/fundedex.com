@@ -2,7 +2,7 @@ const fs = require("fs/promises");
 const { google } = require("googleapis");
 
 const spreadsheetId = "1KbmafM5nml7XftMKcqMQ5cfHPtrOAwuGV8oMGf_KhRk";
-const range = "Tier 1 Founders!B2:I185";
+const range = "Tier 1 Founders!B2:I202";
 
 const auth = new google.auth.GoogleAuth({
   keyFile: "./credentials.json",
