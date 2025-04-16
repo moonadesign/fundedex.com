@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FundedEx</title>
+    <title>Fundedex</title>
     <link rel="stylesheet" href="styles.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
@@ -16,10 +16,10 @@
         <div class="container">
           <div class="header-content">
             <div class="logo">
-              <a href="/">FundedEx</a>
+              <a href="/">Fundedex</a>
             </div>
             <div class="header-actions">
-              <div class="search">
+              <!-- <div class="search">
                 <svg
                   class="search-icon"
                   viewBox="0 0 24 24"
@@ -37,26 +37,9 @@
                   type="search"
                   placeholder="Search companies, founders, funds..."
                 />
-              </div>
-              <button class="btn btn-outline">
-                <svg class="icon" viewBox="0 0 24 24" width="16" height="16">
-                  <path
-                    d="M18 8A6 6 0 1 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"
-                    stroke="currentColor"
-                    fill="none"
-                    stroke-width="2"
-                  />
-                  <path
-                    d="M13.73 21a2 2 0 0 1-3.46 0"
-                    stroke="currentColor"
-                    fill="none"
-                    stroke-width="2"
-                  />
-                </svg>
-                Subscribe
-              </button>
-              <button class="btn btn-outline hidden-md">Upgrade to Pro</button>
-              <button class="btn btn-primary">Log in</button>
+              </div> -->
+              <!-- <button class="btn btn-outline hidden-md">Upgrade to Pro</button> -->
+              <button class="btn btn-primary">Sign up</button>
             </div>
           </div>
         </div>
@@ -68,47 +51,49 @@
           <div class="stats-bar">
             <div class="stat-card">
               <div class="stat-header">
-                <h3 class="stat-title">Total Funds (2025)</h3>
+                <h3 class="stat-title">Total Funds</h3>
               </div>
               <div class="stat-content">
-                <div class="stat-value">28</div>
-                <p class="stat-description">+3 from last quarter</p>
+                <div class="stat-value">0</div>
+                <p class="stat-description">since Jan 1, 2025</p>
               </div>
             </div>
             <div class="stat-card">
               <div class="stat-header">
-                <h3 class="stat-title">Total Companies (2025)</h3>
+                <h3 class="stat-title">Total Companies</h3>
               </div>
               <div class="stat-content">
-                <div class="stat-value">487</div>
-                <p class="stat-description">+165 from YC W25 batch</p>
+                <div class="stat-value">0</div>
+                <p class="stat-description">since Jan 1, 2025</p>
               </div>
             </div>
+            <!-- Commented out Total Invested card
             <div class="stat-card">
               <div class="stat-header">
                 <h3 class="stat-title">Total Invested (2025)</h3>
               </div>
               <div class="stat-content">
-                <div class="stat-value">$243.5M</div>
-                <p class="stat-description">Avg $500K per startup</p>
+                <div class="stat-value">$0</div>
+                <p class="stat-description">Avg $0 per startup</p>
               </div>
             </div>
+            -->
+            <!-- Commented out Data Completion card
             <div class="stat-card">
               <div class="stat-header">
                 <h3 class="stat-title">Data Completion</h3>
               </div>
               <div class="stat-content">
                 <div class="stat-progress">
-                  <div class="stat-progress-value">87%</div>
-                  <div class="stat-progress-description">
-                    ~750 expected in 2025
-                  </div>
+                  <div class="stat-progress-value">0%</div>
+                  <div class="stat-progress-description">~750 expected in 2025</div>
                 </div>
                 <div class="progress-bar">
-                  <div class="progress-bar-fill" style="width: 87%"></div>
+                  <div class="progress-bar-fill" style="width: 0%"></div>
                 </div>
               </div>
             </div>
+            -->
           </div>
 
           <div class="content">
@@ -152,221 +137,9 @@
                       />
                     </svg>
                   </button>
-                  <div class="filter-section-content">
-                    <div class="filter-search">
-                      <svg
-                        class="search-icon"
-                        viewBox="0 0 24 24"
-                        width="16"
-                        height="16"
-                      >
-                        <path
-                          d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                          stroke="currentColor"
-                          fill="none"
-                          stroke-width="2"
-                        />
-                      </svg>
-                      <input type="search" placeholder="Search funds" />
-                    </div>
+                  <div class="filter-section-content" id="fund-filter">
                     <div class="filter-options">
-                      <div class="filter-option">
-                        <input type="checkbox" id="fund-yc" />
-                        <label for="fund-yc">
-                          <span>Y Combinator</span>
-                          <span class="count">165</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="fund-hf0" />
-                        <label for="fund-hf0">
-                          <span>HF0 Residency</span>
-                          <span class="count">42</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="fund-afore" />
-                        <label for="fund-afore">
-                          <span>Afore FIR</span>
-                          <span class="count">38</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="fund-antler" />
-                        <label for="fund-antler">
-                          <span>Antler</span>
-                          <span class="count">35</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="fund-ef" />
-                        <label for="fund-ef">
-                          <span>Entrepreneur First</span>
-                          <span class="count">32</span>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Industry Filter -->
-                <div class="filter-section">
-                  <button class="filter-section-header">
-                    <span>Industry</span>
-                    <svg
-                      class="icon"
-                      viewBox="0 0 24 24"
-                      width="16"
-                      height="16"
-                    >
-                      <path
-                        d="M6 9l6 6 6-6"
-                        stroke="currentColor"
-                        fill="none"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </button>
-                  <div class="filter-section-content">
-                    <div class="filter-options">
-                      <div class="filter-option">
-                        <input type="checkbox" id="industry-ai" />
-                        <label for="industry-ai">
-                          <span>AI/ML</span>
-                          <span class="count">124</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="industry-fintech" />
-                        <label for="industry-fintech">
-                          <span>Fintech</span>
-                          <span class="count">87</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="industry-saas" />
-                        <label for="industry-saas">
-                          <span>SaaS</span>
-                          <span class="count">76</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="industry-health" />
-                        <label for="industry-health">
-                          <span>Health Tech</span>
-                          <span class="count">58</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="industry-climate" />
-                        <label for="industry-climate">
-                          <span>Climate Tech</span>
-                          <span class="count">42</span>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Stage Filter -->
-                <div class="filter-section">
-                  <button class="filter-section-header">
-                    <span>Stage</span>
-                    <svg
-                      class="icon"
-                      viewBox="0 0 24 24"
-                      width="16"
-                      height="16"
-                    >
-                      <path
-                        d="M6 9l6 6 6-6"
-                        stroke="currentColor"
-                        fill="none"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </button>
-                  <div class="filter-section-content">
-                    <div class="filter-options">
-                      <div class="filter-option">
-                        <input type="checkbox" id="stage-pre-seed" />
-                        <label for="stage-pre-seed">
-                          <span>Pre-seed</span>
-                          <span class="count">312</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="stage-seed" />
-                        <label for="stage-seed">
-                          <span>Seed</span>
-                          <span class="count">175</span>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Location Filter -->
-                <div class="filter-section">
-                  <button class="filter-section-header">
-                    <span>Location</span>
-                    <svg
-                      class="icon"
-                      viewBox="0 0 24 24"
-                      width="16"
-                      height="16"
-                    >
-                      <path
-                        d="M6 9l6 6 6-6"
-                        stroke="currentColor"
-                        fill="none"
-                        stroke-width="2"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </button>
-                  <div class="filter-section-content">
-                    <div class="filter-options">
-                      <div class="filter-option">
-                        <input type="checkbox" id="location-sf" />
-                        <label for="location-sf">
-                          <span>San Francisco</span>
-                          <span class="count">143</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="location-nyc" />
-                        <label for="location-nyc">
-                          <span>New York</span>
-                          <span class="count">87</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="location-remote" />
-                        <label for="location-remote">
-                          <span>Remote</span>
-                          <span class="count">76</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="location-london" />
-                        <label for="location-london">
-                          <span>London</span>
-                          <span class="count">42</span>
-                        </label>
-                      </div>
-                      <div class="filter-option">
-                        <input type="checkbox" id="location-berlin" />
-                        <label for="location-berlin">
-                          <span>Berlin</span>
-                          <span class="count">28</span>
-                        </label>
-                      </div>
+                      <!-- Fund options will be populated by JavaScript -->
                     </div>
                   </div>
                 </div>
@@ -374,41 +147,43 @@
             </div>
 
             <div class="main-content">
-              <div class="content-header">
-                <h1>Funded Startups 2025</h1>
-                <button class="btn btn-primary">
-                  <svg class="icon" viewBox="0 0 24 24" width="16" height="16">
-                    <path
-                      d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"
-                      stroke="currentColor"
-                      fill="none"
-                      stroke-width="2"
-                    />
-                    <polyline
-                      points="7 10 12 15 17 10"
-                      stroke="currentColor"
-                      fill="none"
-                      stroke-width="2"
-                    />
-                    <line
-                      x1="12"
-                      y1="15"
-                      x2="12"
-                      y2="3"
-                      stroke="currentColor"
-                      fill="none"
-                      stroke-width="2"
-                    />
-                  </svg>
-                  Export Data ($19)
-                </button>
-              </div>
-
               <div class="tabs">
                 <div class="tabs-header">
-                  <button class="tab active">Companies</button>
-                  <button class="tab">Founders</button>
-                  <button class="tab">Funds</button>
+                  <div class="tabs-nav">
+                    <button class="tab active">Companies</button>
+                    <!-- <button class="tab">Funds</button> -->
+                  </div>
+                  <button class="btn btn-primary">
+                    <svg
+                      class="icon"
+                      viewBox="0 0 24 24"
+                      width="16"
+                      height="16"
+                    >
+                      <path
+                        d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"
+                        stroke="currentColor"
+                        fill="none"
+                        stroke-width="2"
+                      />
+                      <polyline
+                        points="7 10 12 15 17 10"
+                        stroke="currentColor"
+                        fill="none"
+                        stroke-width="2"
+                      />
+                      <line
+                        x1="12"
+                        y1="15"
+                        x2="12"
+                        y2="3"
+                        stroke="currentColor"
+                        fill="none"
+                        stroke-width="2"
+                      />
+                    </svg>
+                    Export Data ($19)
+                  </button>
                 </div>
                 <div class="tab-content">
                   <div class="table-container">
@@ -416,54 +191,12 @@
                       <thead>
                         <tr>
                           <th>Company</th>
+                          <th>Founder</th>
                           <th>Fund</th>
-                          <th>Stage</th>
-                          <th>Industry</th>
-                          <th>Location</th>
-                          <th>Amount</th>
                         </tr>
                       </thead>
                       <tbody>
-                        <tr>
-                          <td>Example Company</td>
-                          <td>Y Combinator</td>
-                          <td>Pre-seed</td>
-                          <td>AI/ML</td>
-                          <td>San Francisco</td>
-                          <td>$500K</td>
-                        </tr>
-                        <tr>
-                          <td>Another Startup</td>
-                          <td>HF0 Residency</td>
-                          <td>Seed</td>
-                          <td>Fintech</td>
-                          <td>New York</td>
-                          <td>$750K</td>
-                        </tr>
-                        <tr>
-                          <td>Tech Innovation</td>
-                          <td>Afore FIR</td>
-                          <td>Pre-seed</td>
-                          <td>SaaS</td>
-                          <td>Remote</td>
-                          <td>$450K</td>
-                        </tr>
-                        <tr>
-                          <td>Future Solutions</td>
-                          <td>Antler</td>
-                          <td>Seed</td>
-                          <td>Health Tech</td>
-                          <td>London</td>
-                          <td>$600K</td>
-                        </tr>
-                        <tr>
-                          <td>Green Energy</td>
-                          <td>Entrepreneur First</td>
-                          <td>Pre-seed</td>
-                          <td>Climate Tech</td>
-                          <td>Berlin</td>
-                          <td>$400K</td>
-                        </tr>
+                        <!-- Table content will be populated by JavaScript -->
                       </tbody>
                     </table>
                     <div class="table-pagination">
@@ -481,7 +214,7 @@
       <footer class="footer">
         <div class="container">
           <div class="footer-content">
-            <p>&copy; 2025 FundedEx. All rights reserved.</p>
+            <p>&copy; 2025 Fundedex. All rights reserved.</p>
             <div class="footer-links">
               <a href="#">Terms</a>
               <a href="#">Privacy</a>
@@ -491,5 +224,7 @@
         </div>
       </footer>
     </div>
+
+    <script src="scripts.js"></script>
   </body>
 </html>

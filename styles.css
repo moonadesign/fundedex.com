@@ -233,6 +233,11 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1rem;
+  position: sticky;
+  top: 5rem; /* Account for header height + some spacing */
+  height: fit-content;
+  max-height: calc(100vh - 7rem); /* Account for header and footer */
+  overflow-y: auto;
 }
 
 .filter-header {
@@ -240,6 +245,10 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+  background: var(--card);
+  z-index: 1;
 }
 
 .filter-header h3 {
@@ -344,10 +353,16 @@ body {
 /* Tabs */
 .tabs-header {
   display: flex;
-  gap: 0.5rem;
-  margin-bottom: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
   border-bottom: 1px solid var(--border);
-  padding-bottom: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.tabs-nav {
+  display: flex;
+  gap: 1rem;
 }
 
 .tab {
@@ -375,6 +390,31 @@ body {
 .data-table {
   width: 100%;
   border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.data-table th:first-child,
+.data-table td:first-child {
+  width: 13rem;
+}
+
+.data-table th:nth-child(2),
+.data-table td:nth-child(2) {
+  width: 13rem;
+}
+
+.data-table th:last-child,
+.data-table td:last-child {
+  width: auto;
 }
 
 .data-table th {
