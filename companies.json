@@ -1181,8 +1181,18 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "A1Base",
+    "Founder 1": "Pasha Rayan",
+    "Founder 2": "Pennie Huang",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Agentin AI",
+    "Founder 1": "Sankeerth Karingula",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1191,8 +1201,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Amby Health",
+    "Founder 1": "Yos Wagenmans",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1201,8 +1211,18 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Archon",
+    "Founder 1": "George Parks",
+    "Founder 2": "Sam Jung",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "assistant-ui",
+    "Founder 1": "Simon Farshid",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1211,8 +1231,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Astro",
+    "Founder 1": "Fred Schott",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1221,8 +1241,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "awen",
+    "Founder 1": "Thibault Henriet",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1231,8 +1251,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Axal",
+    "Founder 1": "Ashlan Ahmed",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1241,8 +1261,18 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Bluebook",
+    "Founder 1": "Jonathan Andersson",
+    "Founder 2": "Philip Andersson",
+    "Founder 3": "Filip Stål",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Browser Use",
+    "Founder 1": "Aodhan Cullen",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1251,8 +1281,138 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Candor",
+    "Founder 1": "Ethne",
+    "Founder 2": "Laude",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Casixty",
+    "Founder 1": "Eylon",
+    "Founder 2": "Mizrahi",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Closure",
+    "Founder 1": "Aaron Zelinger",
+    "Founder 2": "Gilad Levy",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Cuckoo Labs",
+    "Founder 1": "Yong Lee",
+    "Founder 2": "Gunwoo Kim",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Dexterity",
+    "Founder 1": "Samir",
+    "Founder 2": "Menon",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Exla",
+    "Founder 1": "Pranav Nair",
+    "Founder 2": "Viraat Das",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Fira",
+    "Founder 1": "Alex Tkachenko",
+    "Founder 2": "Alexey Taktarov",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Harper",
+    "Founder 1": "Beverly",
+    "Founder 2": "Graham",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "HealthKey",
+    "Founder 1": "Ryo",
+    "Founder 2": "Chea",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "HUD",
+    "Founder 1": "Tiesha",
+    "Founder 2": "Lawrence",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Infinite",
+    "Founder 1": "Julie",
+    "Founder 2": "Vose",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Karoo",
+    "Founder 1": "Anssi",
+    "Founder 2": "Mustonen",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Macadamia",
+    "Founder 1": "Abel Van Steenweghen",
+    "Founder 2": "Brecht Pierreux",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Mentra",
+    "Founder 1": "Jhillika Kumar",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1261,8 +1421,88 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "NextByte",
+    "Founder 1": "Mani",
+    "Founder 2": "Singh",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Nuclear Software",
+    "Founder 1": "David Maluleke",
+    "Founder 2": "Wesley Sutton",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Onlook",
+    "Founder 1": "Daniel Farrell",
+    "Founder 2": "Kiet Ho",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Optifye.ai",
+    "Founder 1": "Vivaan Baid",
+    "Founder 2": "Kushal Mohta",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Orbital Operations",
+    "Founder 1": "Benjamin",
+    "Founder 2": "Schleuniger",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Ovlo",
+    "Founder 1": "Andrew Malouf",
+    "Founder 2": "Amer Eid",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "PAX Markets",
+    "Founder 1": "Benjamin",
+    "Founder 2": "Kilimnik",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Peppr AI",
+    "Founder 1": "Sachitt Arora",
+    "Founder 2": "Nitya Arora",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Pig",
+    "Founder 1": "Erik Dunteman",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1271,8 +1511,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Rada",
+    "Founder 1": "Patrick Foster",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1281,8 +1521,18 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Reditus Space",
+    "Founder 1": "Stef Crum",
+    "Founder 2": "Will Sherman",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Riviera",
+    "Founder 1": "Steve Nolan",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1291,8 +1541,8 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Rocketable",
+    "Founder 1": "Alan Wells",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1301,8 +1551,18 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "SAMMY Labs",
+    "Founder 1": "Shav",
+    "Founder 2": "Vimalendiran",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Stamp",
+    "Founder 1": "Archit Mehta",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1311,8 +1571,38 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
+    "Company": "Strike",
+    "Founder 1": "Ronit Jain",
+    "Founder 2": "Aarav Patel",
+    "Founder 3": "Ankit Raparthi",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "SubImage",
+    "Founder 1": "Alex",
+    "Founder 2": "Chantavy",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Sublingual",
+    "Founder 1": "Dylan Bowman",
+    "Founder 2": "Matthew Tang",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "YC W25",
+    "Company": "Tally",
+    "Founder 1": "Rami Ghanem",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1321,9 +1611,9 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Company": "TamLabs",
+    "Founder 1": "Joshua",
+    "Founder 2": "Doolan",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
@@ -1331,9 +1621,9 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Company": "Toothy AI",
+    "Founder 1": "Dmitry",
+    "Founder 2": "Tuzoff",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
@@ -1341,9 +1631,9 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Company": "Truffle AI",
+    "Founder 1": "Shaunak Srivastava",
+    "Founder 2": "Rahul Karajgikar",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
@@ -1351,9 +1641,9 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Company": "Vocality Health",
+    "Founder 1": "Vivek",
+    "Founder 2": "Jayaram",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
@@ -1361,296 +1651,16 @@
   },
   {
     "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Company": "YouShift",
+    "Founder 1": "Lucia",
+    "Founder 2": "Vives Martorell",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
     "Website": ""
   },
   {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "YC W25",
-    "Company": "",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Automax",
     "Founder 1": "Humza Ahmed",
     "Founder 2": "",
@@ -1660,7 +1670,7 @@
     "Website": "https://www.automax.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Babbix",
     "Founder 1": "Kim Mishra",
     "Founder 2": "",
@@ -1670,7 +1680,7 @@
     "Website": "https://www.babbixai.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "BeFreed",
     "Founder 1": "Jisong Liu",
     "Founder 2": "",
@@ -1680,7 +1690,7 @@
     "Website": "https://befreed.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Caledon",
     "Founder 1": "Thayallan Srinathan",
     "Founder 2": "",
@@ -1690,7 +1700,7 @@
     "Website": "https://www.caledon.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "CivilGrid",
     "Founder 1": "Josh Mackanic",
     "Founder 2": "",
@@ -1700,7 +1710,7 @@
     "Website": "https://www.civilgrid.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Coverflow",
     "Founder 1": "Matt Fastow",
     "Founder 2": "",
@@ -1710,7 +1720,7 @@
     "Website": "https://coverflow.tech/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Gild",
     "Founder 1": "Tyler Lasicki",
     "Founder 2": "",
@@ -1720,7 +1730,7 @@
     "Website": "https://www.getgild.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Greysound",
     "Founder 1": "Anshu Dwibhashi",
     "Founder 2": "",
@@ -1730,7 +1740,7 @@
     "Website": ""
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Handoff",
     "Founder 1": "Dmitry Alexin",
     "Founder 2": "",
@@ -1740,7 +1750,7 @@
     "Website": "https://www.handoff.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Kino",
     "Founder 1": "Henry Soong",
     "Founder 2": "",
@@ -1750,7 +1760,7 @@
     "Website": "https://www.kino-technologies.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Omnial",
     "Founder 1": "Richard Zhou",
     "Founder 2": "",
@@ -1760,7 +1770,7 @@
     "Website": "https://omnial.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Palette",
     "Founder 1": "Amila Welihinda",
     "Founder 2": "",
@@ -1770,7 +1780,7 @@
     "Website": "https://palette.dev/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "SieveStack",
     "Founder 1": "Slava Naprienko",
     "Founder 2": "",
@@ -1780,7 +1790,7 @@
     "Website": "https://sievestack.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Synquery",
     "Founder 1": "Bren Marschner",
     "Founder 2": "",
@@ -1790,7 +1800,7 @@
     "Website": "https://www.synquery.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Syra",
     "Founder 1": "Chirag Kulkarni",
     "Founder 2": "",
@@ -1800,7 +1810,7 @@
     "Website": "https://www.trysyra.com/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Vecflow",
     "Founder 1": "Rutvik Rau",
     "Founder 2": "",
@@ -1810,7 +1820,7 @@
     "Website": "https://www.vecflow.ai/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "Vessel",
     "Founder 1": "Thomas Terrats",
     "Founder 2": "",
@@ -1820,19 +1830,9 @@
     "Website": "https://vessel.co/"
   },
   {
-    "Fund": "Afore FiR Q1",
+    "Fund": "Afore",
     "Company": "ViryAI",
     "Founder 1": "Steven Miller",
-    "Founder 2": "",
-    "Founder 3": "",
-    "Founder 4": "",
-    "LinkedIn": "",
-    "Website": ""
-  },
-  {
-    "Fund": "a16Z TxO",
-    "Company": "",
-    "Founder 1": "",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1860,9 +1860,9 @@
     "Website": ""
   },
   {
-    "Fund": "Accel",
+    "Fund": "Accel Atoms",
     "Company": "Ally",
-    "Founder 1": "",
+    "Founder 1": "Vetri Vellore",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1870,10 +1870,10 @@
     "Website": ""
   },
   {
-    "Fund": "Accel",
+    "Fund": "Accel Atoms",
     "Company": "ConductorOne",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Founder 1": "Alex Bovee",
+    "Founder 2": "Paul Querna",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
@@ -1932,7 +1932,7 @@
   {
     "Fund": "Precursor Ventures",
     "Company": "Edera",
-    "Founder 1": "",
+    "Founder 1": "Emily Long",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1942,7 +1942,7 @@
   {
     "Fund": "Precursor Ventures",
     "Company": "VoiceOps",
-    "Founder 1": "",
+    "Founder 1": "Ethan Barhydt",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1952,27 +1952,27 @@
   {
     "Fund": "Andreesen Horowitz",
     "Company": "WorldLabs",
-    "Founder 1": "",
-    "Founder 2": "",
+    "Founder 1": "Max Lehnus",
+    "Founder 2": "Guy-Edward Waterland",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
     "Website": ""
   },
   {
-    "Fund": "Sequoia",
+    "Fund": "Sequoia Capital",
     "Company": "Safe Superintelligence",
-    "Founder 1": "",
-    "Founder 2": "",
-    "Founder 3": "",
+    "Founder 1": "Daniel Gross",
+    "Founder 2": "Daniel Levy",
+    "Founder 3": "Ilya Sutskever",
     "Founder 4": "",
     "LinkedIn": "",
     "Website": ""
   },
   {
-    "Fund": "Sequoia",
+    "Fund": "Sequoia Capital",
     "Company": "Harmonic",
-    "Founder 1": "",
+    "Founder 1": "Vlad Tenev",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1980,9 +1980,9 @@
     "Website": ""
   },
   {
-    "Fund": "Accel",
+    "Fund": "Accel Atoms",
     "Company": "Ema",
-    "Founder 1": "",
+    "Founder 1": "Surojit Chatterjee",
     "Founder 2": "",
     "Founder 3": "",
     "Founder 4": "",
@@ -1990,10 +1990,520 @@
     "Website": ""
   },
   {
-    "Fund": "Sequoia",
+    "Fund": "Sequoia Capital",
     "Company": "Caldera",
-    "Founder 1": "",
+    "Founder 1": "Parker Jou",
+    "Founder 2": "Matthew K.",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Vocode",
+    "Founder 1": "Kian H",
     "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "LangChain",
+    "Founder 1": "Harrison Chase",
+    "Founder 2": "Ankush Gola",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Spinny",
+    "Founder 1": "Niraj Singh",
+    "Founder 2": "Ramanshu Mahaur",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Precursor Ventures",
+    "Company": "Dopl Technologies",
+    "Founder 1": "David Garner",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Precursor Ventures",
+    "Company": "FantasyPlaybook.ai",
+    "Founder 1": "Michael Wojcieszek",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Tailscale",
+    "Founder 1": "David Carney",
+    "Founder 2": "David Crawshaw",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Bridgetown Research",
+    "Founder 1": "Harsh Sahai",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Boldstart Ventures",
+    "Company": "xNilio",
+    "Founder 1": "Kiegan Lenihan",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Boldstart Ventures",
+    "Company": "Tessl",
+    "Founder 1": "Guy Podjarny",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "System Two Security",
+    "Founder 1": "Robert Fly ",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "Muon Space",
+    "Founder 1": "Paul Day",
+    "Founder 2": "Chad Anderson ",
+    "Founder 3": "Reuben Rohrschneider",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Paid",
+    "Founder 1": "Manoj Ganapathy",
+    "Founder 2": "Raj Dosanj",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Bessemer Venture Partners",
+    "Company": "Brisk Teaching",
+    "Founder 1": "Arman Jaffer",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "Cape",
+    "Founder 1": "Nicholas Espinoza ",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Sunday",
+    "Founder 1": "Coulter Lewis",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "500 Global",
+    "Company": "Phase",
+    "Founder 1": "Nick Budden",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Afore",
+    "Company": "ConverzAI",
+    "Founder 1": "Ashwarya Poddar",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Afore",
+    "Company": "Keragon",
+    "Founder 1": "Panos Papageorgiou",
+    "Founder 2": "George Makkoulis",
+    "Founder 3": "Conno Christou",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Battery Ventures",
+    "Company": "Plain",
+    "Founder 1": "Matt Vagni",
+    "Founder 2": "Simon Rohrbach ",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Bessemer Venture Partners",
+    "Company": "AppliedAI",
+    "Founder 1": "Arya H. Bolurfrushan",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "SGNL",
+    "Founder 1": "Scott Kriz",
+    "Founder 2": "Erik Gustavson",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Island",
+    "Founder 1": "Michael Fey",
+    "Founder 2": "Dan Amiga",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "1517 Fund",
+    "Company": "Miist Therapeutics",
+    "Founder 1": "Dalton Signor",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Battery Ventures",
+    "Company": "Jump",
+    "Founder 1": "Parker Ence",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "Ivo",
+    "Founder 1": "Jacob Duligall ",
+    "Founder 2": "Min-Kyu Jung ",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "Self Inspection",
+    "Founder 1": "Constantine Yaremtso",
+    "Founder 2": "Eugene Shevelev",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Emergence Capital",
+    "Company": "DevAI Solutions Inc",
+    "Founder 1": "Edwin Zhang",
+    "Founder 2": "Susie Wee",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Mindy",
+    "Founder 1": "Benoit Berthoux",
+    "Founder 2": "Yu Pan",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Avelios Medical",
+    "Founder 1": "Nicolas Jakob",
+    "Founder 2": "Christian Albrecht",
+    "Founder 3": "Dr. Sebastian Krammer",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Scale Venture Partners",
+    "Company": "Regie.ai",
+    "Founder 1": "Matt Millen",
+    "Founder 2": "Srinath Sridhar",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Quilt",
+    "Founder 1": "Daniel Chen ",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Peregrine Technologies",
+    "Founder 1": "Nick Noone",
+    "Founder 2": "Ben Rudolph",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Freed",
+    "Founder 1": "Andrey Bannikov",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "500 Global",
+    "Company": "Elevarm",
+    "Founder 1": "Bayu Syerli",
+    "Founder 2": "Febi Agil Ifdillah",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Supabase Inc",
+    "Founder 1": "Ant Wilson",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "HF0",
+    "Company": "AvatarOS",
+    "Founder 1": "Isaac Bratzel",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Scale Venture Partners",
+    "Company": "Freed",
+    "Founder 1": "Andrey Bannikov",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Thinking Machines Lab",
+    "Founder 1": "Mira Murati",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Reflection AI",
+    "Founder 1": "Ioannis Alexandros Antonoglou",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Costanoa Ventures",
+    "Company": "Rerun",
+    "Founder 1": "Moritz Schiebold",
+    "Founder 2": "Emil Ernerfeldt",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Bessemer Venture Partners",
+    "Company": "Protectt.ai",
+    "Founder 1": "Manish Mimani",
+    "Founder 2": "Mohanraj Selvaraj ",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Vega Security",
+    "Founder 1": "Shay Sandler",
+    "Founder 2": "Eli Rozen",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "500 Global",
+    "Company": "Featherless.ai",
+    "Founder 1": "Eugene Cheah",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Silna Health",
+    "Founder 1": "Sagar Jajoo",
+    "Founder 2": "Pavel Asparouhov",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Graphite",
+    "Founder 1": "Greg Foster",
+    "Founder 2": "Tomas Reimers",
+    "Founder 3": "Merrill Lutsky",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Battery Ventures",
+    "Company": "Mews",
+    "Founder 1": "Richard Valtr",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Accel Atoms",
+    "Company": "Quanta",
+    "Founder 1": "Fariborz Tavangarian",
+    "Founder 2": "",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "New Enterprise Associates",
+    "Company": "Glacier",
+    "Founder 1": "Rebecca Hu",
+    "Founder 2": "Areeb Malik",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Precursor Ventures",
+    "Company": "BuildCasa",
+    "Founder 1": "Paul Steidl ",
+    "Founder 2": "Ben Bear",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "Lemni",
+    "Founder 1": "Alex Buis",
+    "Founder 2": "Krijn Rijshouwer",
+    "Founder 3": "",
+    "Founder 4": "",
+    "LinkedIn": "",
+    "Website": ""
+  },
+  {
+    "Fund": "Sequoia Capital",
+    "Company": "OpenEvidence",
+    "Founder 1": "Zachary Ziegler",
+    "Founder 2": "Daniel Nadler",
     "Founder 3": "",
     "Founder 4": "",
     "LinkedIn": "",
