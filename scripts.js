@@ -55,19 +55,13 @@ function sortCompanies(companies, sort) {
 
 // Setup sorting functionality
 function setupSorting(companies) {
-  const companyHeader = document.querySelector("th.sortable");
+  const companyHeader = document.querySelector(".table-header .sortable");
 
   companyHeader.addEventListener("click", () => {
-    // Toggle sort direction
     currentSort.direction = currentSort.direction === "asc" ? "desc" : "asc";
-
-    // Update header classes
     companyHeader.classList.remove("sort-asc", "sort-desc");
     companyHeader.classList.add(`sort-${currentSort.direction}`);
-
-    // Sort and display companies
-    const sortedCompanies = sortCompanies(companies, currentSort);
-    displayCompanies(sortedCompanies);
+    displayCompanies(sortCompanies(companies, currentSort));
   });
 }
 
@@ -110,25 +104,48 @@ function populateFundFilters(fundCounts) {
 
 // Display companies in the table
 function displayCompanies(companies) {
-  const tbody = document.querySelector(".data-table tbody");
-  tbody.innerHTML = "";
+  const tableBody = document.querySelector(".table-body");
+  tableBody.innerHTML = "";
 
   if (companies.length === 0) {
-    const row = document.createElement("tr");
-    row.innerHTML =
-      '<td colspan="3" class="no-results">No companies found</td>';
-    tbody.appendChild(row);
+    tableBody.innerHTML =
+      '<div class="table-row"><div class="no-results">No companies found</div></div>';
     return;
   }
 
   companies.forEach((company) => {
-    const row = document.createElement("tr");
-    row.innerHTML = `
-      <td>${company.Company}</td>
-      <td>${company["Founder 1"] || ""}</td>
-      <td>${company.Fund}</td>
+    tableBody.innerHTML += `
+      <div class="table-row">
+        <div>${company.Fund}</div>
+        <div>
+          <a href="${
+            company["Company Website"] || "#"
+          }" class="company-link" target="_blank" rel="noopener noreferrer">
+            <span>${company.Company}</span>${
+      company["Company LinkedIn"] ? '<i class="fa-brands fa-linkedin"></i>' : ""
+    }
+          </a>
+        </div>
+        <div>
+          ${
+            company["Founder LinkedIn"]
+              ? `<a href="${
+                  company["Founder LinkedIn"]
+                }" class="founder-link" target="_blank" rel="noopener noreferrer">${
+                  company.Founder || ""
+                }</a>`
+              : company.Founder || ""
+          }
+        </div>
+        <div class="action-icons">
+          ${
+            company.Email
+              ? `<a href="mailto:${company.Email}"><i class="fa-regular fa-envelope"></i></a>`
+              : ""
+          }
+        </div>
+      </div>
     `;
-    tbody.appendChild(row);
   });
 }
 

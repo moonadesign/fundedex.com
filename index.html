@@ -6,6 +6,10 @@
     <title>Fundedex</title>
     <link rel="stylesheet" href="styles.css" />
     <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
@@ -186,36 +190,17 @@
                   </button>
                 </div>
                 <div class="tab-content">
-                  <div class="table-container">
-                    <table class="data-table">
-                      <thead>
-                        <tr>
-                          <th class="sortable sort-asc">
-                            Company
-                            <svg
-                              class="sort-icon"
-                              viewBox="0 0 24 24"
-                              width="16"
-                              height="16"
-                            >
-                              <path
-                                d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
-                                fill="currentColor"
-                              />
-                            </svg>
-                          </th>
-                          <th>Founder</th>
-                          <th>Fund</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <!-- Table content will be populated by JavaScript -->
-                      </tbody>
-                    </table>
-                    <!-- <div class="table-pagination">
-                      <button class="btn btn-outline btn-sm">Previous</button>
-                      <button class="btn btn-outline btn-sm">Next</button>
-                    </div> -->
+                  <div class="data-table">
+                    <div class="table-header">
+                      <div>Fund</div>
+                      <div class="sortable sort-asc">
+                        Company
+                        <i class="fa-solid fa-arrow-up"></i>
+                      </div>
+                      <div>Founder</div>
+                      <div>Actions</div>
+                    </div>
+                    <div class="table-body"></div>
                   </div>
                 </div>
               </div>
